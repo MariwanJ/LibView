@@ -1,4 +1,4 @@
-# LibView
+# LibView  - Static library viewer
 Static Library export viewer - Windows Only
 
 Origioanl code could be found here 
