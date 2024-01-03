@@ -25,7 +25,7 @@ public:
 	int GetFuncDetail(DWORD dwIndex, std::string& szDecorated, std::string& szUndecorated);
 	int Browse(const char* szFilePath);
 	CLibContent();
-	virtual ~CLibContent();
+	~CLibContent();
 };
 
 #endif // !defined(AFX_LIBCONTENT_H__667E6487_66B8_4A65_A255_DFBE034EC23A__INCLUDED_)

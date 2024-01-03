@@ -11,4 +11,9 @@ I would like to preserve this project. This is useful when you have library with
 This is tested on Windows 10. 
 Visual studio 2022
 
+##NOTE: IMPORTANT!!!!!
+Use it at your own risk!!!!
+
+
+
 Mariwan Jalal 2024-01-03
